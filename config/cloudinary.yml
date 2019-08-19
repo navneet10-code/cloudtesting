@@ -1,25 +1,25 @@
----
+  ---
 development:
-  cloud_name: dbzqixnor
-  api_key: '868299345688555'
-  api_secret: CGT-hKJxsz9hz87C2yReJRiT8FU
+  cloud_name: ddumb92d7
+  api_key: '891465626576572'
+  api_secret: HRvqbYtHdPGtrWK1W31Ev8Qr0Zc
   enhance_image_tag: true
   static_image_support: false
 production:
-  cloud_name: dbzqixnor
-  api_key: '868299345688555'
-  api_secret: CGT-hKJxsz9hz87C2yReJRiT8FU
+  cloud_name: ddumb92d7
+  api_key: '891465626576572'
+  api_secret: HRvqbYtHdPGtrWK1W31Ev8Qr0Zc
   enhance_image_tag: true
   static_image_support: true
 staging:
-  cloud_name: dbzqixnor
-  api_key: '868299345688555'
-  api_secret: CGT-hKJxsz9hz87C2yReJRiT8FU
+  cloud_name: ddumb92d7
+  api_key: '891465626576572'
+  api_secret: HRvqbYtHdPGtrWK1W31Ev8Qr0Zc
   enhance_image_tag: true
   static_image_support: true
 test:
-  cloud_name: dbzqixnor
-  api_key: '868299345688555'
-  api_secret: CGT-hKJxsz9hz87C2yReJRiT8FU
+  cloud_name: ddumb92d7
+  api_key: '891465626576572'
+  api_secret: HRvqbYtHdPGtrWK1W31Ev8Qr0Zc
   enhance_image_tag: true
   static_image_support: false
