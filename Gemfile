@@ -9,7 +9,7 @@ end
 # ruby '2.4.1'
 gem 'acts_as_votable', '~> 0.11.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-gem 'carrierwave', '~> 1.2', '>= 1.2.2'
+gem 'carrierwave', '~> 1.3'
 gem 'cloudinary', '~> 1.9', '>= 1.9.1'
 gem 'coffee-rails', '~> 4.2'
 gem 'devise', '~> 4.3'
